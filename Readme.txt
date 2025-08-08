@@ -42,9 +42,3 @@ This portfolio site was built using:
 - Contact
 
 ---
-
-## 📦 Running Locally
-
-```bash
-git clone https://github.com/your-username/your-portfolio.git
-cd your-portfolio
